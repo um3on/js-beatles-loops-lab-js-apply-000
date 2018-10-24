@@ -20,3 +20,9 @@ const facts = ["He was the last Beatle to learn to drive",
   "He was a choir boy and boy scout",
   "He hated the sound of his own voice"
 ];
+
+function johnLennonFacts() {
+  var updated_facts = [];
+  var i = 0;
+  while()
+}

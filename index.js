@@ -21,7 +21,7 @@ const facts = ["He was the last Beatle to learn to drive",
   "He hated the sound of his own voice"
 ];
 
-function johnLennonFacts() {
+function johnLennonFacts(f) {
   var updated_facts = [];
   var i = 0;
   while()

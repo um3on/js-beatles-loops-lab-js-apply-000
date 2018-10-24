@@ -4,7 +4,7 @@ var instruments = ['guitar', 'bass', 'drum kits', 'drum kits'];
 
 
 theBeatlesPlay(musicians,instruments);
-fucntion theBeatlesPlay(musc,inst) {
+function theBeatlesPlay(musc,inst) {
   var myArray = [];
 
   //Just for this specific example, i didnt check the lebgth of instruments and musicians to be equal

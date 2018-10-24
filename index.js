@@ -38,4 +38,4 @@ function iLoveTheBeatles(num) {
 
 do{
 num++;
-}while( < 15);
+}while(num < 15);

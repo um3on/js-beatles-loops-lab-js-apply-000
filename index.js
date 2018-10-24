@@ -32,7 +32,7 @@ function johnLennonFacts(f) {
   return updated;
 }
 
-function iLoveTheBeatles() {
+function iLoveTheBeatles(num) {
   var x = [];
 }
 

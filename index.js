@@ -5,5 +5,5 @@ var myArray = [];
 
 //Just for this specific example, i didnt check the lebgth of instruments and musicians to be equal
 for(var i =0; i < musicians.length; i++) {
-
+  myArray[i] = musicians[i] + " plays " + instruments[i];
 }

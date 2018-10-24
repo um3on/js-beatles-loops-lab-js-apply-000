@@ -36,7 +36,6 @@ function iLoveTheBeatles(num) {
   var x = [];
 }
 
-var i = 0;
 do{
-i++;
-}while(i < 15);
+num++;
+}while( < 15);

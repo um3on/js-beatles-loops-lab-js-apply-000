@@ -22,7 +22,10 @@ const facts = ["He was the last Beatle to learn to drive",
 ];
 
 function johnLennonFacts(f) {
-  var updated_facts = [];
+  var updated = [];
   var i = 0;
-  while()
+  while(f[i]){
+    updated[i] = f[i]+"!!!";
+    i++;
+  }
 }

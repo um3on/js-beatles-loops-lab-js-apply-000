@@ -28,4 +28,5 @@ function johnLennonFacts(f) {
     updated[i] = f[i] + "!!!";
     i++;
   }
+  return updated;
 }
